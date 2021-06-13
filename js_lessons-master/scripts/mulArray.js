@@ -10,7 +10,7 @@ arr.push(["homwork", 13]);
 arr.pop();
 arr.splice(1, 0, ["Programmmin lesson", 19]);
 console.table(arr);
-console.log(arr[4][0]);
+//console.log(arr[4][0]);
 
 for (var i = 0; i < arr.length; ++i) {
   //console.log(arr[i]);
