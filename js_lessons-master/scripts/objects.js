@@ -5,7 +5,7 @@
 
 var user = {
   name: {
-    firtName: "Anna",
+    firstName: "Anna",
     lastName: "Adamyan",
   },
   age: 14,
